@@ -8,7 +8,12 @@
     "build": "node utils/build.js",
     "build-zip": "npm run build && node utils/build-zip.js"
   },
-  "keywords": ["chrome", "vue", "webpack", "chrome-extension"],
+  "keywords": [
+    "chrome",
+    "vue",
+    "webpack",
+    "chrome-extension"
+  ],
   "author": "Jeevan Lal",
   "license": "MIT",
   "dependencies": {

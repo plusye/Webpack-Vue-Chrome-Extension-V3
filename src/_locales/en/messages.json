@@ -1,0 +1,11 @@
+{
+  "app_name": {
+      "message": "Chrome Extension V3 - Webpack & Vue 2",
+      "description": "Webpack 4 & Vue 2 (.vue) - Chrome Extension V3"
+  },
+
+  "app_desc": {
+      "message": "Webpack 4 & Vue 2 (.vue) - Chrome Extension V3",
+      "description": "similar to Safari reading mode, read mode, reader view module, named simpread."
+  }
+}

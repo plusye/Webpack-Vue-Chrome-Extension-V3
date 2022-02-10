@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension V3 - Webpack & Vue 2",
-  "description": "Webpack 4 & Vue 2 (.vue) - Chrome Extension V3",
+  "name": "__MSG_app_name__",
+  "default_locale": "en",
+  "description": "__MSG_app_desc__",
   "options_page": "options.html",
   "background": {
     "service_worker": "service-worker.js"

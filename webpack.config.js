@@ -116,6 +116,7 @@ var options = {
         },
         { from: 'src/icons', to: 'icons', force: true, },
         { from: 'src/assets', to: 'assets', force: true, },
+        { from: 'src/_locales', to: '_locales', force: true, },
       ]
     }),
   ],
